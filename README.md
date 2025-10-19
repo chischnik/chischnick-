@@ -1,9 +1,9 @@
-<h1 align="center">Master Student Guyen KG</h1>
-<h3 align="center">A passionate frontend</h3>
+<h1 align="center">Student in computer science </h1>
+<h3 align="center">A passionate of data science </h3>
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently learning Power Bi
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,Spring boot , Html , CSS, Python , JavaScript**
 
 - ⚡ Fun fact **I think im empathic**
 
